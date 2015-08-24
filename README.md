@@ -1,2 +1,2 @@
-# lemon-bt-C#
-A behavior tree using the C # language.
+# Lemon-BT-CShape
+A behavior tree using the C# language.

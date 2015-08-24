@@ -1,4 +1,4 @@
-﻿/**
+﻿/*
  * Composite node: parent of nodes that have multi-children. 
  */
 

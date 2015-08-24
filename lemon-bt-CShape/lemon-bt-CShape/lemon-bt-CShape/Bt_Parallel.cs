@@ -1,4 +1,4 @@
-﻿/**
+﻿/*
  * Parallel node.
  */
 
