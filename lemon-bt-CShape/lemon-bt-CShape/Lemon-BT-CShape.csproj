@@ -41,20 +41,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bt_Sequence.cs" />
-    <Compile Include="Bt_Select.cs" />
-    <Compile Include="Bt_Parallel.cs" />
-    <Compile Include="Bt_Decorator.cs" />
-    <Compile Include="Bt_Result.cs" />
-    <Compile Include="Bt_Composite.cs" />
-    <Compile Include="Bt_Condition.cs" />
-    <Compile Include="Bt_Node.cs" />
-    <Compile Include="test.cs" />
+    <Compile Include="Core\Bt_Action.cs" />
+    <Compile Include="Core\Bt_ParallelSequence.cs" />
+    <Compile Include="Core\Bt_ParallelSelector.cs" />
+    <Compile Include="Core\Bt_Sequence.cs" />
+    <Compile Include="Core\Bt_Select.cs" />
+    <Compile Include="Core\Bt_Parallel.cs" />
+    <Compile Include="Core\Bt_Decorator.cs" />
+    <Compile Include="Core\Bt_Result.cs" />
+    <Compile Include="Core\Bt_Composite.cs" />
+    <Compile Include="Core\Bt_Condition.cs" />
+    <Compile Include="Core\Bt_Node.cs" />
+    <Compile Include="Core\Bt_Debug.cs" />
+    <Compile Include="Test\testNode2.cs" />
+    <Compile Include="Test\testNode1.cs" />
+    <Compile Include="Test\test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
