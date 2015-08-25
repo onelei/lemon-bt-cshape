@@ -17,4 +17,4 @@ A behavior tree framework, using the C# language.
  -Parallel Sequence Node:一True则返回True,全False才返回False.
 
 # Run test        
-![](https://github.com/onelei/Lemon-BT-Unity/blob/master/ImgCache/ide.png) 
+![](https://github.com/onelei/Lemon-BT-CShape/blob/master/ImgCache/test.png) 
