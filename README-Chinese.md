@@ -1,5 +1,5 @@
 # Lemon-BT-CPlus
-A behavior tree framework, using the C++ language.
+A behavior tree framework, using the C# language.
 
 # Node  
 * Composite Node  
